@@ -30,7 +30,7 @@ function createSketchpad(width, height) {
 // Function for filling the color
 function FillColor(e) {
   // console.log(e.target);
-  e.target.style.backgroundColor = 'red';
+  e.target.style.backgroundColor = 'grey';
 }
 
 createSketchpad(width, height);
